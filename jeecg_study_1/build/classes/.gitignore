@@ -1,0 +1,8 @@
+/dbconfig.properties
+/log4j.properties
+/org/
+/spring-minidao.xml
+/spring-mvc-context.xml
+/spring-mvc-hibernate.xml
+/spring-mvc.xml
+/sysConfig.properties
